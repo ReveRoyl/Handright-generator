@@ -43,19 +43,4 @@ for im in images:
     assert isinstance(im, Image.Image)
     im.show()
 
-```
-更多信息请参阅[Tutorial][tutorial]。
 
-
-## Join Us
-扫码或点击[链接](https://t.zsxq.com/zzZfMJq)加入Handright社区：
-![手右](docs/images/zsxq.png)
-
-
-[tutorial]: docs/tutorial.md
-[PIL]: http://www.pythonware.com/products/pil/
-[Pillow]: http://python-pillow.org/
-[release-notes]: docs/release_notes.md
-[pypi]: https://pypi.org/project/handright/
-[license]: LICENSE.txt
-[contributing]: .github/CONTRIBUTING.md
